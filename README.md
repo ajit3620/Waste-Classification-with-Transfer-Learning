@@ -1,8 +1,5 @@
 # Waste Classification with Transfer Learning
 
-**DSCI 552 Final Project**  
-Instructor: M. R. Rajati  
-Due: May 12, 2025
 
 ---
 
